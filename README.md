@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mojdeh</h1>
-<h3 align="center">A Junior Full Stack Developer with a passion in UX/UI design.</h3>
+<h3 align="center">A Junior Full Stack Developer with a passion for UX/UI design.</h3>
 
 - 🤝 I'm currently looking for **employment/project opportunities.**
 
