@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mojdeh</h1>
 <h3 align="center">A Software Developer with a passion for UX/UI design.</h3>
 
-- 🤝 I'm currently working as a software developer with focus on front end at Cloudspark Labs Technologies.**
+- 🤝 I'm currently working as a software developer with focus on front end at Cloudspark Labs Technologies.
 
 - 📫 You can reach me at **mojdeh.sbzgh@gmail.com**
 
